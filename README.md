@@ -1,1 +1,3 @@
 # Elzero-course
+
+##project notes
